@@ -18,9 +18,10 @@ export function writedata(namefile,data) {
 
 
 export function adddata(filename,object){
-
+   
     const data = readfiles(filename)
     data.push(object)
+    
     
     writedata(filename,data)
 }

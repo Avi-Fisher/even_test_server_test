@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "username": "Avi",
+    "eventName": "party6",
+    "ticketsBought": 5
+  },
+  {
+    "username": "Avi",
+    "eventName": "party1",
+    "ticketsBought": 4
+  },
+  {
+    "username": "Avi",
+    "eventName": "party2",
+    "ticketsBought": 3
+  },
+  {
+    "username": "Avi",
+    "eventName": "party3",
+    "ticketsBought": 2
+  },
+  {
+    "username": "Avi",
+    "eventName": "party5",
+    "ticketsBought": 1
+  }
+]
